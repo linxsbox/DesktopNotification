@@ -1,0 +1,15 @@
+{
+  "name": "distrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eye":"http-server -p 8880 -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shuai.lin",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
